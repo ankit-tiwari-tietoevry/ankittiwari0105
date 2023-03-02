@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T14:17:20.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="W_GF2T8CwOIIFmqSPvBl" version="20.8.21" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-02T14:49:34.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="aQWJT_npS08iUjHNuMPt" version="20.8.21" type="github" pages="2">
   <diagram name="Page-1" id="-lLgzmp-qp1-eKJv9865">
     <mxGraphModel dx="1050" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -205,7 +205,7 @@
         <mxCell id="J4n4eSA4mw5scYbwsOEM-17" value="IDP&lt;br&gt;Auth Service&lt;br&gt;IDP claims" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="POmU1o6y6uIKTFcGBLPY-1" value="EIKA Credit Portal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="POmU1o6y6uIKTFcGBLPY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="130" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="POmU1o6y6uIKTFcGBLPY-3" value="EIKA CreditPortal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -249,6 +249,15 @@
         </mxCell>
         <mxCell id="hECFvLwOykH2QrgemZgy-1" value="IDP dispatcher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="190" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hECFvLwOykH2QrgemZgy-4" value="EIKA Credit Portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="105" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hECFvLwOykH2QrgemZgy-5" value="customer search" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="140" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hECFvLwOykH2QrgemZgy-6" value="Loan application cases" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="170" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
